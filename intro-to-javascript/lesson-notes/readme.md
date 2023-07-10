@@ -14,7 +14,7 @@
 
 ## Guiding Questions
 
-- There are seven primitive data types in JavaScript. Which ones have you seen before?
+- There are eight primitive data types in JavaScript. Which ones have you seen before?
 
 - Take a look at the data types below and identify each one.
 
