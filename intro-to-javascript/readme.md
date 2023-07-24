@@ -172,7 +172,7 @@ You can add two strings together. This is called `string concatenation`.
 ```
 <!-- prettier-ignore-end -->
 
-You can also interpolate strings. This one is typically the easiest to read, but it is also the most tricky to learn because you must use a character called a `backtick` and use matching `curly braces` `{}` with a dollar sign `$` in front. The backtick is a character usually on the upper right of your keyboard and shares the key with the tilde `~`.
+You can also interpolate strings. This one is typically the easiest to read, but it is also the most tricky to learn because you must use a character called a `backtick` and use matching `curly braces` `{}` with a dollar sign `$` in front. The backtick is a character usually on the upper left of your keyboard and shares the key with the tilde `~`.
 
 <!-- prettier-ignore-start -->
 ```js
