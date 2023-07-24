@@ -336,7 +336,7 @@ You can compare values by using the following:
 |        less than         |    <    |
 |  less than or equal to   |   <=    |
 |    equal to (strict)     |   ===   |
-|         equal to         |   ===   |
+|         equal to         |   ==   |
 |  not equal to (strict)   |   !==   |
 |       not equal to       |   !=    |
 
