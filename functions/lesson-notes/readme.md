@@ -39,6 +39,7 @@
   This code is a bit verbose but isn't too bad. However, consider we need to copy this pattern for 100 different animals. What problems could occur if we were to do this?
 
 - What is a function, and how does it help solve problems of repeatability and variability?
+  A function in Javascript is a set of instructions that can be used repeatedly with different inputs and situations, making it easier to reuse code and adapt to various scenarios.
 
 - Take a look at the function below. Explain each part of the function in your own words, using technical terms if possible.
 
@@ -49,15 +50,20 @@
   ```
 
 - The function above has three parameters. What does that mean?
+  This means that the function can accept three values as input when it is called.
+  *These values will be used within the function's code to perform its tasks or calculations
 
 - The function above has one line of code in its function body. What does that mean?
-
+  This means that the function's logic is concise and is achieved within a single line of code when the function is called(invoked)
+  
 - How many lines of code are you allowed to put into a JavaScript function body?
+  There is no limit of lines of code allowed in a Javascript function body
 
 - Try copying the function above and running your code. Nothing should appear in the console. Why is this?
 
 - How do you call a function?
-
+  functionName() ==> function name and parenthesis. 
+  
 - What would happen if you were to run the following code? Why? Make your best guess before running the code yourself.
 
   ```js
@@ -182,6 +188,8 @@
   ```
 
   In your own words, describe how the above code differs from using `console.log()`. What are the implications of these differences?
+
+Using console.log() displays a value in the console for debugging or informational purposes, while the return keyword passes a value back to the calling code, enabling further computations or storage for later use. The implications are that console.log() is for immediate display and debugging purposes only, whereas the return statement is essential for capturing function results and using them in the program flow.
 
 - When the function below is called, will anything be printed to the console? What is the return value of the function?
 
