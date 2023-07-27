@@ -288,7 +288,7 @@ As soon as `i` equals 5, we immediately stop and don't execute the rest of the l
 Alternatively, we might hit a condition where we want to ignore the rest of the code inside the body of the loop but continue incrementing our iterator to its next value:
 
 ```js
-for (i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   if (i === 5) {
     continue;
   }
