@@ -124,7 +124,7 @@ for (let num = 1; num < 10; num += 1) {
 
 The above loop logs the numbers between 1 and 10, just like the while loop above. It works the same as the previous while loop, but the components of the loop are all maintained on the same line, making it easier to read and update.
 
-Generally speaking, the structure of the `for` is the same every time. Two semicolons separate the three parts of the code.
+Generally speaking, the structure of the `for` loop is the same every time. Two semicolons separate the three parts of the code.
 
 - The part before the first semicolon defines a variable.
 - The second part is a boolean expression that checks if the loop should continue (This section is most similar to our `while` loops).
