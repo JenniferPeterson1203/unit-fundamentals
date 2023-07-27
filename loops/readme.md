@@ -263,7 +263,7 @@ console.log(i)
 Sometimes, we want to stop a loop when a certain condition is met. For example, let's say that we want to count over a range of numbers and stop once we get to five:
 
 ```js
-for (i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   if (i === 5) {
     break;
   }
