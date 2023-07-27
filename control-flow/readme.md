@@ -115,7 +115,7 @@ console.log(!!1);
 Or you can look at a truth table. The following [table](https://dorey.github.io/JavaScript-Equality-Table/) has three tabs:
 
 - Loose equality (does not check whether the type of data is the same, in this case `"3" == 3` is true).
-- Strict equality(checks whether the type of data is the same, in this case `"3" == 3` is false).
+- Strict equality(checks whether the type of data is the same, in this case `"3" === 3` is false).
 - if statement evaluations (determines if the code in the block should run or not).
 
 ## Conditional code
