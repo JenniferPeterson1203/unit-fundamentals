@@ -114,7 +114,7 @@ while (num > 0) {
 
 ## The `for` loop
 
-Another kind of loop, the `for` loop, is a similar to a condensed version of a while loop. With the `for` loop, we create a variable, check a condition, and change the variable's value in one line. This improves readability and maintainability.
+Another kind of loop, the `for` loop, is similar to a condensed version of a while loop. With the `for` loop, we create a variable, check a condition, and change the variable's value in one line. This improves readability and maintainability.
 
 ```js
 for (let num = 1; num < 10; num += 1) {
