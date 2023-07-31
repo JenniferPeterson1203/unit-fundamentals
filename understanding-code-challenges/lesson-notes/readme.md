@@ -60,7 +60,7 @@ function describeNumberOfPlants(plantName, count) {
 
 ```js
 describe("describeNumberOfPlants()", () => {
-  test("should say there are no plants (plural) if the count is less than 1", () => {
+  it("should say there are no plants (plural) if the count is less than 1", () => {
     const plantName = "Jade Plant";
     const count = 0;
     const actual = describeNumberOfPlants(plantName, count);
