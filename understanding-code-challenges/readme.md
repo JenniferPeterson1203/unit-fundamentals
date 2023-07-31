@@ -287,7 +287,7 @@ The tests for the `greetings()` function will look very complicated at first. Do
 
 ```js
 describe("greetings()", () => {
-  test("should greet the person by name when the time of day is 'morning'", () => {
+  it("should greet the person by name when the time of day is 'morning'", () => {
     const timeOfDay = "morning";
     const guest = "Emily";
     const actual = greetings(timeOfDay, guest);
