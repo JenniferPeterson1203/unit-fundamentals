@@ -302,7 +302,7 @@ describe("greetings()", () => {
 Some of the code above will look very different, but some may actually look familiar. You can read the code above in the following way:
 
 - This test is "describing" the `greetings()` function.
-- The "test" declares that it "should greet the person by name when the time of day is 'morning'".
+- The "it" declares that it "should greet the person by name when the time of day is 'morning'".
 - When the `greetings()` function is called with the values `"morning"` and `"Emily"`, the `expected` output is `"Good morning, Emily."`.
 
 Although the syntax may look at bit strange compared to what you've learned so far, the Jest tests can read nicely when you know what to look for. Try reading the code out loud. Jest tries to make their code human readable:
