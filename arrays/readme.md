@@ -198,7 +198,7 @@ function checkContents(array, favNumber = 0) {
       console.log(`I have accounted for my ${array[i]}`);
     }
 
-    if (i == favNumber) {
+    if (i === favNumber) {
       console.log(`${array[i]} is my favorite item.`);
     }
   }
