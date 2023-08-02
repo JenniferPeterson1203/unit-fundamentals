@@ -165,7 +165,7 @@ for (let i = 0; i < backpack.length; i++) {
 
 // A lovely sprite has enchanted my boomerang.
 // A lovely sprite has enchanted my tent.
-// A lovely sprite has enchanted my kitten food.
+// A lovely sprite has enchanted my coin pouch.
 ```
 
 You can include more complex conditionals.
