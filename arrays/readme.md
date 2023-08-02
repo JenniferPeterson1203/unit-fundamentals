@@ -179,7 +179,7 @@ for (let i = 0; i < backpack.length; i++) {
 
 // A sneaky elf has set fire to my Tums!
 // A sneaky elf has set fire to my hair clip!
-// A sneaky elf has set fire to my kitten food!
+// A sneaky elf has set fire to my coin pouch!
 ```
 
 ## Putting it all together
