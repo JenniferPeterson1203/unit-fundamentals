@@ -44,7 +44,7 @@ These small details end up playing a critical role in how you design your logic 
 |  **Number methods**   |
 |           1           |          `.toFixed()`          |
 |           2           | `Math.ceil()` & `Math.floor()` |
-|           3           |          `.toFixed()`          |
+|           3           |  `parseInt()` & `parseFloat()` |
 |           4           |  `Math.min()` & `Math.max()`   |
 |  **String methods**   |
 |           5           |        `.toLowerCase()`        |
