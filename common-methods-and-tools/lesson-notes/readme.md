@@ -42,7 +42,7 @@ These small details end up playing a critical role in how you design your logic 
 | Group Number/Category |           Method(s)            |
 | :-------------------: | :----------------------------: |
 |  **Number methods**   |
-|           1           |          `.toFixed()`          |
+|           1           |  `.toFixed()` & `.toString()`          |
 |           2           | `Math.ceil()` & `Math.floor()` |
 |           3           |  `parseInt()` & `parseFloat()` |
 |           4           |  `Math.min()` & `Math.max()`   |
