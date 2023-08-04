@@ -72,7 +72,7 @@ In the question above, the input you have is the amount of money: $25. The outpu
 
 #### Clarifying questions
 
-Additionally, it's normal to question the boundaries of the problem, so you can better find a solution. These kind of clarifying questions are useful for understand what you should and should not focus on.
+Additionally, it's normal to question the boundaries of the problem, so you can better find a solution. These kind of clarifying questions are useful for understanding what you should and should not focus on.
 
 For example, consider the following question:
 
