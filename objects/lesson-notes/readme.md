@@ -93,7 +93,7 @@ console.log(programmer);
 
 - Do objects have the `.length` property? Does the answer to the previous question seem reasonable?
 
-- While bracket notation works for arrays, you can also use a syntax known as dot notation. If the key in an array contains no spaces and does not start with a number, you can access its value with a `.` like in the example below.
+- While bracket notation works for arrays, you can also use a syntax known as dot notation. If the key in an object contains no spaces and does not start with a number, you can access its value with a `.` like in the example below.
 
 ```js
 const programmer = {
