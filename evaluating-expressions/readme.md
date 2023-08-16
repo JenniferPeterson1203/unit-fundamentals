@@ -156,7 +156,7 @@ sodas[1] -> { name: "Sprite", rating: 4 }
 { name: "Sprite", rating: 4 }.name -> "Sprite"
 ```
 
-Accessing deeply nested values in this way is very common in programming. Understanding what data type is being returned can be hugely beneficial when common across problems like these. It's worth it to begin practicing accessing these values.
+Accessing deeply nested values in this way is very common in programming. Understanding what data type is being returned can be hugely beneficial when coming across problems like these. It's worth it to begin practicing accessing these values.
 
 ## Interpolated keys
 
